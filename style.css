@@ -200,15 +200,10 @@ h4{
     flex-direction: row;
     justify-content: space-between;
 }
-
-.paint{
-    height: 300px;
-    background-image: url(./Image/img2.jpg);
-    background-size: cover;
-}
 .paint1{
     background-image: url(./Image/paint1.jpg);
     background-size: cover;
+    
 }
 .paint2{
     background-image: url(./Image/paint2.jpg);
